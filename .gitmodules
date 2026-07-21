@@ -1,3 +1,21 @@
 [submodule "Bundesliga"]
 	path = Bundesliga
 	url = git@github.com:pilgrimagesoftware/FullTime-Plugin-Bundesliga.git
+[submodule "MLS"]
+	path = MLS
+	url = git@github.com:pilgrimagesoftware/FullTime-Plugin-MLS.git
+[submodule "NWSL"]
+	path = NWSL
+	url = git@github.com:pilgrimagesoftware/FullTime-Plugin-NWSL.git
+[submodule "NationalTeams"]
+	path = NationalTeams
+	url = git@github.com:pilgrimagesoftware/FullTime-Plugin-NationalTeams.git
+[submodule "SerieA"]
+	path = SerieA
+	url = git@github.com:pilgrimagesoftware/FullTime-Plugin-SerieA.git
+[submodule "EPL"]
+	path = EPL
+	url = git@github.com:pilgrimagesoftware/FullTime-Plugin-EPL.git
+[submodule "LaLiga"]
+	path = LaLiga
+	url = git@github.com:pilgrimagesoftware/FullTime-Plugin-LaLiga.git
